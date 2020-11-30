@@ -1,0 +1,11 @@
+Question 1
+You do not hande if the user does not input a correct value.
+You did not use the string format method in your print statements.
+
+Question 2
+You add not to statements that already have not.
+You do not correctly handle if the user inputs only "not".
+
+Question 3
+You should have used the choices function, not the randrange function.
+You do not compare the user's inputs to the winning numbers and tell the user how many they got correct.
